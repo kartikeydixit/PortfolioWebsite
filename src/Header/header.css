@@ -1,0 +1,30 @@
+.header-main ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.header-main {
+  /* border : 1px solid black; */
+  padding: 20px 20px 20px 20px;
+}
+.header-main a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: 20px;
+  /* padding-bottom: 20px; */
+}
+.header-main li {
+  display: inline;
+  /* margin-left: 10px; */
+  margin-right: 30px;
+  /* background-color: crimson;
+    border-radius: 30px; */
+}
+.mode-rt {
+  float: right;
+}
+
+.darkMode {
+  background-color: #222;
+}

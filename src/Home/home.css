@@ -1,0 +1,18 @@
+.container{
+    margin:auto;
+    width: 80%;
+    /* border:1px solid black; */
+    
+}
+.icon img{
+    width: 70%;
+    /* color: #9ff9f3; */
+}
+
+.intro h3{
+    display: inline-block;
+    border-bottom: 2px solid black;
+}
+.container p,li{
+    font-size: 20px;
+}
